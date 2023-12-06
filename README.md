@@ -7,7 +7,7 @@
 Dbranco23/Dbranco23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- :computer: Tools I've worked with:
+- 💻: Tools I've worked with:
 <p align= left>
 <img src="https://github.com/chibi-affm/chibi-affm/assets/149700565/c8140609-167d-47bf-adf0-860c59d96626" alt="css3" width="120" height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60" />
