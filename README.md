@@ -1,4 +1,4 @@
-### - Hi, my name is João Diogo Branco
+##### - Hi, my name is João Diogo Branco
 
 - 👀 I’m interested in Coding, VideoGames, Cooking and Music!! 
 - 🌱 I’m currently learning ... various programming skills, from front-end to back-end!
